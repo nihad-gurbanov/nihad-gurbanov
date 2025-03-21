@@ -24,7 +24,7 @@
 ### 🛒 [E-Commerce Microservices Platform](https://github.com/nihad-gurbanov/E-commerce-Spring-Boot-Microservice)  
 A **scalable e-commerce system** using **Spring Boot microservices, Apache Kafka, and Kubernetes**.  
 
-### 🤖 [Resume Scoring System](https://github.com/nihad-gurbanov/)  
+### 🤖 [Recruitment Automation Tool](https://github.com/nihad-gurbanov/Resume-scoring-hr-candidate-tool)  
 An **AI-powered tool** using **Flask, SBERT, and PyTorch** to analyze resumes and match job descriptions.  
 
 ### 🍽 [Food Finder App](https://github.com/nihad-gurbanov/food-finder-app)  
