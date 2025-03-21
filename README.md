@@ -25,7 +25,7 @@
 A **scalable e-commerce system** using **Spring Boot microservices, Apache Kafka, and Kubernetes**.  
 
 ### 🤖 [Recruitment Automation Tool](https://github.com/nihad-gurbanov/Resume-scoring-hr-candidate-tool)  
-An **AI-powered tool** using **Flask, SBERT, and PyTorch** to analyze resumes and match job descriptions.  
+An **AI-powered tool** using **Spring Boot, Flask, SBERT, and PyTorch** to analyze resumes, match job descriptions and generate reports.  
 
 ### 🍽 [Food Finder App](https://github.com/nihad-gurbanov/food-finder-app)  
 A **React-based recipe search app** integrating **Spoonacular API** for real-time food item searches.  
